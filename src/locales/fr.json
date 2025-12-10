@@ -1,0 +1,115 @@
+{
+    "nav": {
+        "home": "Accueil",
+        "about": "À Propos",
+        "projects": "Projets",
+        "contact": "Contact",
+        "quote": "Devis Gratuit"
+    },
+    "hero": {
+        "welcome": "Bienvenue chez Jomana Travaux",
+        "title": "L'Excellence en Construction",
+        "since": "Depuis 2015",
+        "subtitle": "Nous sommes spécialisés dans la construction de maisons, villas et projets résidentiels de haute qualité. Nous transformons votre vision en réalité avec précision et savoir-faire.",
+        "cta_primary": "Commencer Votre Projet",
+        "cta_secondary": "Voir Nos Réalisations"
+    },
+    "intro": {
+        "title": "Votre Partenaire de Confiance",
+        "description": "Fondée en 2015 par Mohamed Belhaj, JOMANA TRAVAUX s'est rapidement imposée comme un leader de la construction résidentielle à Radès et au-delà. Nous nous engageons à livrer l'excellence dans chaque projet, grand ou petit.",
+        "services": {
+            "construction": {
+                "title": "Construction de Maisons",
+                "desc": "Des fondations aux finitions, nous construisons la maison de vos rêves avec des matériaux de première qualité et un savoir-faire expert."
+            },
+            "renovation": {
+                "title": "Rénovation",
+                "desc": "Transformez les espaces existants en environnements modernes et fonctionnels qui correspondent à votre style de vie."
+            },
+            "consultation": {
+                "title": "Consultation",
+                "desc": "Conseils d'experts et planification pour assurer le bon déroulement de votre projet de construction et le respect du budget."
+            }
+        }
+    },
+    "cta": {
+        "title": "Prêt à Construire Votre Rêve ?",
+        "subtitle": "Contactez-nous aujourd'hui pour une consultation et un devis gratuits. Discutons de la façon dont nous pouvons donner vie à votre vision.",
+        "button": "Contactez-nous Maintenant"
+    },
+    "about": {
+        "title": "À Propos de Nous",
+        "subtitle": "Bâtir la confiance et l'excellence dans chaque projet depuis 2015.",
+        "story_title": "Notre Histoire",
+        "story_p1": "Fondée en 2015 à Radès, Tunisie, JOMANA TRAVAUX a commencé avec une vision claire : élever le standard de la construction résidentielle dans la région. Ce qui a commencé comme une petite équipe d'artisans dévoués est devenu une entreprise de construction réputée, connue pour sa qualité, sa fiabilité et son souci du détail.",
+        "story_p2": "Au cours des dernières années, nous avons livré avec succès de nombreux projets, allant de villas modernes à des rénovations complexes. Notre croissance témoigne de la confiance que nos clients nous accordent et de notre engagement inébranlable envers l'excellence.",
+        "mission_title": "Notre Mission",
+        "mission_desc": "Notre mission est simple : construire des maisons, des villas et des projets résidentiels de haute qualité qui résistent à l'épreuve du temps. Nous croyons qu'une maison est plus que de simples briques et du mortier ; c'est un sanctuaire où se créent des souvenirs.",
+        "values": {
+            "quality": "Savoir-faire de Qualité",
+            "communication": "Communication Transparente",
+            "delivery": "Livraison à Temps",
+            "satisfaction": "Satisfaction Client"
+        },
+        "years_excellence": "Années d'Excellence",
+        "founder_title": "Rencontrez le Fondateur",
+        "founder_role": "Fondateur & PDG",
+        "founder_desc": "Avec une passion pour la construction et une vision de la vie moderne, Mohamed Belhaj a créé JOMANA TRAVAUX pour apporter une nouvelle perspective à l'industrie de la construction tunisienne. Son approche pratique et son dévouement à la qualité garantissent que chaque projet répond aux normes les plus élevées."
+    },
+    "projects": {
+        "title": "Nos Projets",
+        "subtitle": "Explorez notre portefeuille d'excellence livrée.",
+        "categories": {
+            "all": "Tout",
+            "construction": "Construction",
+            "renovation": "Rénovation",
+            "interior": "Intérieur"
+        }
+    },
+    "contact": {
+        "title": "Contactez-nous",
+        "subtitle": "Contactez-nous pour discuter de votre prochain projet.",
+        "get_in_touch": "Entrer en Contact",
+        "desc": "Que vous ayez une question sur nos services, besoin d'un devis ou souhaitiez discuter d'un partenariat potentiel, notre équipe est prête à vous aider.",
+        "location": "Notre Emplacement",
+        "phone": "Numéro de Téléphone",
+        "email": "Adresse Email",
+        "hours": "Heures de Travail",
+        "hours_week": "Lun - Ven : 8h00 - 18h00",
+        "hours_sat": "Sam : 9h00 - 13h00",
+        "form": {
+            "title": "Envoyez-nous un Message",
+            "name": "Nom Complet",
+            "email": "Adresse Email",
+            "phone": "Numéro de Téléphone",
+            "project_type": "Type de Projet",
+            "message": "Message",
+            "submit": "Envoyer le Message",
+            "sending": "Envoi en cours...",
+            "success_title": "Message Envoyé !",
+            "success_desc": "Merci de nous avoir contactés. Nous vous répondrons sous peu.",
+            "types": {
+                "house": "Construction de maison",
+                "renovation": "Rénovation",
+                "consultation": "Consultation",
+                "other": "Autre"
+            },
+            "errors": {
+                "name": "Le nom complet est requis",
+                "email_req": "L'email est requis",
+                "email_inv": "L'email est invalide",
+                "phone_req": "Le numéro de téléphone est requis",
+                "phone_inv": "Le numéro de téléphone est invalide",
+                "message": "Le message est requis"
+            }
+        }
+    },
+    "footer": {
+        "desc": "Construction de maisons, villas et projets résidentiels de haute qualité depuis 2015. Votre partenaire de confiance pour l'excellence en construction.",
+        "quick_links": "Liens Rapides",
+        "services": "Services",
+        "contact": "Contactez-nous",
+        "rights": "Tous droits réservés.",
+        "designed": "Conçu avec excellence."
+    }
+}

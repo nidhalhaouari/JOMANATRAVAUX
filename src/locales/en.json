@@ -1,0 +1,115 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "projects": "Projects",
+        "contact": "Contact",
+        "quote": "Get a Quote"
+    },
+    "hero": {
+        "welcome": "Welcome to Jomana Travaux",
+        "title": "Building Excellence",
+        "since": "Since 2015",
+        "subtitle": "We specialize in building high-quality houses, villas, and residential projects. Turning your vision into reality with precision and craftsmanship.",
+        "cta_primary": "Start Your Project",
+        "cta_secondary": "View Our Work"
+    },
+    "intro": {
+        "title": "Your Trusted Construction Partner",
+        "description": "Founded in 2015 by Mohamed Belhaj, JOMANA TRAVAUX has quickly established itself as a leader in residential construction in Radès and beyond. We are committed to delivering excellence in every project, big or small.",
+        "services": {
+            "construction": {
+                "title": "House Construction",
+                "desc": "From foundation to finishing, we build your dream home with premium materials and expert craftsmanship."
+            },
+            "renovation": {
+                "title": "Renovation",
+                "desc": "Transform existing spaces into modern, functional environments that match your lifestyle."
+            },
+            "consultation": {
+                "title": "Consultation",
+                "desc": "Expert advice and planning to ensure your construction project runs smoothly and stays on budget."
+            }
+        }
+    },
+    "cta": {
+        "title": "Ready to Build Your Dream?",
+        "subtitle": "Contact us today for a free consultation and quote. Let's discuss how we can bring your vision to life.",
+        "button": "Contact Us Now"
+    },
+    "about": {
+        "title": "About Us",
+        "subtitle": "Building trust and excellence in every project since 2015.",
+        "story_title": "Our Story",
+        "story_p1": "Founded in 2015 in Radès, Tunisia, JOMANA TRAVAUX started with a clear vision: to raise the standard of residential construction in the region. What began as a small team of dedicated craftsmen has grown into a reputable construction company known for quality, reliability, and attention to detail.",
+        "story_p2": "Over the past few years, we have successfully delivered numerous projects, ranging from modern villas to complex renovations. Our growth is a testament to the trust our clients place in us and our unwavering commitment to excellence.",
+        "mission_title": "Our Mission",
+        "mission_desc": "Our mission is simple: to build high-quality houses, villas, and residential projects that stand the test of time. We believe that a home is more than just bricks and mortar; it's a sanctuary where memories are made.",
+        "values": {
+            "quality": "Quality Craftsmanship",
+            "communication": "Transparent Communication",
+            "delivery": "Timely Delivery",
+            "satisfaction": "Customer Satisfaction"
+        },
+        "years_excellence": "Years of Excellence",
+        "founder_title": "Meet The Founder",
+        "founder_role": "Founder & CEO",
+        "founder_desc": "With a passion for construction and a vision for modern living, Mohamed Belhaj established JOMANA TRAVAUX to bring a fresh perspective to the Tunisian construction industry. His hands-on approach and dedication to quality ensure that every project meets the highest standards."
+    },
+    "projects": {
+        "title": "Our Projects",
+        "subtitle": "Explore our portfolio of delivered excellence.",
+        "categories": {
+            "all": "All",
+            "construction": "Construction",
+            "renovation": "Renovation",
+            "interior": "Interior"
+        }
+    },
+    "contact": {
+        "title": "Contact Us",
+        "subtitle": "Get in touch with us to discuss your next project.",
+        "get_in_touch": "Get In Touch",
+        "desc": "Whether you have a question about our services, need a quote, or want to discuss a potential partnership, our team is ready to help.",
+        "location": "Our Location",
+        "phone": "Phone Number",
+        "email": "Email Address",
+        "hours": "Working Hours",
+        "hours_week": "Mon - Fri: 8:00 AM - 6:00 PM",
+        "hours_sat": "Sat: 9:00 AM - 1:00 PM",
+        "form": {
+            "title": "Send Us a Message",
+            "name": "Full Name",
+            "email": "Email Address",
+            "phone": "Phone Number",
+            "project_type": "Project Type",
+            "message": "Message",
+            "submit": "Send Message",
+            "sending": "Sending...",
+            "success_title": "Message Sent!",
+            "success_desc": "Thank you for contacting us. We will get back to you shortly.",
+            "types": {
+                "house": "House construction",
+                "renovation": "Renovation",
+                "consultation": "Consultation",
+                "other": "Other"
+            },
+            "errors": {
+                "name": "Full Name is required",
+                "email_req": "Email is required",
+                "email_inv": "Email is invalid",
+                "phone_req": "Phone Number is required",
+                "phone_inv": "Phone Number is invalid",
+                "message": "Message is required"
+            }
+        }
+    },
+    "footer": {
+        "desc": "Building high-quality houses, villas, and residential projects since 2015. Your trusted partner in construction excellence.",
+        "quick_links": "Quick Links",
+        "services": "Services",
+        "contact": "Contact Us",
+        "rights": "All rights reserved.",
+        "designed": "Designed with excellence."
+    }
+}
